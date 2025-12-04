@@ -1,6 +1,7 @@
 node_modules/
 .env
-session/
+
 session_backups/
 credentials.json
+
 package-lock.json
