@@ -1,0 +1,19 @@
+{
+  "name": "smm1",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "googleapis": "^105.0.0",
+    "input": "^1.0.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "telegram": "^2.26.22"
+  }
+}
